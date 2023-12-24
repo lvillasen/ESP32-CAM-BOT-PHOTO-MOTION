@@ -8,3 +8,5 @@
 ### Added a more functional flash
 
 ### Added motion detection based on the HC-SR501 PIR infrared sensor 
+
+### Connect GPIO12 of ESP32-CAM to OUTPUT pin of PIR sensor
